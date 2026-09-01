@@ -172,17 +172,6 @@ Applied AutoML to a cash-flow optimization problem — automating model selectio
 
 *Keep only the providers you actually hold a certification from — delete the rest.*
 
-**AWS**
-*[Add badge/link once you have an AWS certification]*
-
-**Oracle**
-*[Add badge/link once you have an Oracle certification]*
-
-**NPTEL**
-*[Add badge/link once you have an NPTEL certification]*
-
-**Cisco**
-*[Add badge/link once you have a Cisco certification]*
 
 ---
 
