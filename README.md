@@ -1,28 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=220&section=header&text=Hi,%20I'm%20Priyanka&fontSize=38&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Data%20Science%20Student%20%7C%20ML%20Engineering%20Intern&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Priyanka 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Science+Student;ML+Engineering+Intern+%40+FlyRank+AI;Turning+Data+Into+Decisions;Building+in+Public" alt="Typing SVG" />
-</a>
+### Data Science Student · Machine Learning Engineering Intern · Data & AI Enthusiast
 
-<br/>
+<p>
+  <a href="https://github.com/ReposofPriyanka">
+    <img src="https://img.shields.io/badge/GitHub-ReposofPriyanka-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyankagoswami-kolkata/">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanka%20Goswami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:goswamipriyanka645@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-![Academic](https://img.shields.io/badge/Data%20Science-3rd%20Year-8E2DE2?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍Kolkata-4A00E0?style=flat-square&labelColor=1a1a2e)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+Engineering+Intern;Turning+Data+Into+Decisions;Building+with+Python%2C+SQL+%26+Power+BI;Exploring+ML+%26+AI" alt="Typing SVG" />
 
-<br/>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8e2de2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=4A00E0&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=A78BFA&labelColor=1a1a2e)
+![Data Science](https://img.shields.io/badge/B.Sc.%20Data%20Science%20\(H\)-3rd%20Year-8E2DE2?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.5-4A00E0?style=flat-square)
+![Graduation](https://img.shields.io/badge/Expected%20Graduation-2028-A78BFA?style=flat-square)
+![Internship](https://img.shields.io/badge/ML%20Engineering%20Intern-FlyRank%20AI-8E2DE2?style=flat-square)
 
 </div>
 
@@ -30,159 +31,212 @@
 
 ## 🧠 About Me
 
-I'm Priyanka — a third-year **Data Science** student and **Machine Learning Engineering Intern at FlyRank AI**. I like working close to the whole pipeline: pulling a clear story out of messy data, building models that hold up outside a notebook, and shipping the product around them so someone can actually use the result.
+I'm **Priyanka**, a third-year **B.Sc. Data Science (H)** student at **Techno India University, West Bengal**, currently working as a **Machine Learning Engineering Intern at FlyRank AI**.
 
-Outside of coursework and my internship, I build and document publicly — a portfolio site, a weekly devlog, and a YouTube channel — because I think showing the process is as valuable as the finished project.
+I enjoy working across the data and machine learning pipeline — from **SQL and exploratory analysis** to **machine learning, APIs, notebooks, data warehouses, and AI workflows**.
 
-- 🔭 Currently: ML Engineering Intern @ **FlyRank AI**
-- 🎓 3rd-year Data Science student
-- 🌱 Currently deepening: advanced SQL & analytics *(window functions, PostgreSQL)*
-- 📝 I write about what I'm building on my devlog and LinkedIn
-- 💬 Open to: **Data Analytics · Data Science · Machine Learning · AI** internships & roles
-- ⚡ *[Add a personal line — a hobby, a habit, anything that makes this sound like you]*
+My goal is to build practical systems where data doesn't just describe what happened — it helps make the **next decision easier**.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-&nbsp;![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-
-**Data & BI Tools**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=vercel,git,github&theme=dark" />
-
-> *Only real, used tools are listed above. Add more icons as you actually pick up new tools — full list at [skillicons.dev](https://skillicons.dev).*
+* 🎓 **B.Sc. Data Science (H)** · Techno India University, West Bengal
+* 📊 **CGPA:** 8.5
+* 💼 **Machine Learning Engineering Intern** · FlyRank AI
+* 🔬 Working with **Python, ML, APIs, notebooks, Hugging Face & data warehouse workflows**
+* 📈 Interested in **Data Analytics, Data Science, Machine Learning & AI**
+* 🚀 Building projects that combine **analytics + business understanding + machine learning**
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🛠️ Technical Skills
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Data Analytics | 🟣🟣🟣🟣⚪ Strong | Python, SQL (PostgreSQL), Power BI, Excel |
-| SQL & Analytics | 🟣🟣🟣🟣⚪ Strong | Querying fundamentals → window functions → advanced analytics |
-| AutoML | 🟣🟣🟣⚪⚪ Applied | Cash-flow optimization project |
-| ML Engineering | 🟣🟣⚪⚪⚪ Growing | Current focus as ML Engineering Intern @ FlyRank AI |
-| *[Add more]* | | *[e.g., NLP, computer vision, MLOps — only add what you've actually worked with]* |
+### Programming & Query Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### Data Science & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
+
+### Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-5C2D91?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square\&logo=duckdb\&logoColor=black)
+
+### Machine Learning & AI
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8E2DE2?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-6A5ACD?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-7B68EE?style=flat-square)
+![Clustering](https://img.shields.io/badge/Clustering-9370DB?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B00?style=flat-square)
+![AutoML](https://img.shields.io/badge/AutoML-4A00E0?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-A78BFA?style=flat-square)
+
+### Development & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+---
+
+## 🤖 AI & Machine Learning
+
+| Area                             | Skills                                          |
+| -------------------------------- | ----------------------------------------------- |
+| **Data Analytics**               | Python, SQL, Pandas, NumPy, Excel               |
+| **Business Intelligence**        | Power BI, DAX, Power Query                      |
+| **Machine Learning**             | Regression, Classification, Clustering, XGBoost |
+| **AutoML**                       | Automated model selection & experimentation     |
+| **AI**                           | Prompt Engineering, Hugging Face workflows      |
+| **Data Engineering Foundations** | SQL, MySQL, DuckDB, Data Warehouse workflows    |
+| **Development**                  | Git, GitHub, APIs, Streamlit, Next.js, React    |
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>📊 Insurance Claims Analytics</b></summary>
-<br/>
+### 📊 Insurance Claims Analytics
 
-Exploratory analysis and modeling on insurance claims data to surface patterns, risk signals, and reporting-ready insights.
+**MySQL + Power BI**
 
-| | |
-|---|---|
-| **Stack** | *[e.g., Python, Pandas, scikit-learn]* |
-| **Scale** | *[e.g., rows/records processed]* |
-| **Performance** | *[e.g., an accuracy or error metric]* |
-| **Security** | *[e.g., PII handling notes, if relevant]* |
-| **Impact** | *[e.g., what changed because of this]* |
-| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/insurance-claims-analytics) |
+An end-to-end insurance analytics case study combining SQL analysis, data modeling, DAX measures and interactive Power BI dashboards.
 
-</details>
+**Project highlights:**
 
-<details>
-<summary><b>🛒 Global Superstore Sales Analysis & Forecast</b></summary>
-<br/>
+* Analyzed **1,000 insurance policies and 1,000 claims**
+* Examined approximately **$52.76M in exposure**
+* Identified **247 fraud cases**
+* Built an interactive Power BI dashboard covering:
 
-Sales analysis and demand forecasting on the Global Superstore dataset — trend breakdown by region/category plus a forward-looking forecast.
+  * Executive Overview
+  * Claims & Severity Analysis
+  * Fraud Intelligence
+  * Geographic & Location Analysis
+  * Customer & Policy Analysis
+  * Claim Investigation Center
+* Used **MySQL** for SQL-based analysis and **Power BI/DAX** for reporting and business intelligence
 
-| | |
-|---|---|
-| **Stack** | *[e.g., Python, Power BI, your forecasting method]* |
-| **Scale** | *[e.g., rows/records, time range covered]* |
-| **Performance** | *[e.g., forecast error metric]* |
-| **Security** | *[e.g., N/A, or relevant note]* |
-| **Impact** | *[e.g., what the forecast enables]* |
-| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/global-superstore-forecast) |
+**Tech:** `MySQL` `SQL` `Power BI` `DAX` `Data Modeling`
 
-</details>
+<p>
+  <a href="https://github.com/ReposofPriyanka/insurance_claim_analytics">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<details>
-<summary><b>💰 AutoML Cash Flow Optimization</b></summary>
-<br/>
+---
 
-Applied AutoML to a cash-flow optimization problem — automating model selection and tuning to find the best-performing approach with less manual iteration.
+### 🛒 Global Superstore Sales Analytics
 
-| | |
-|---|---|
-| **Stack** | *[e.g., your actual AutoML library]* |
-| **Scale** | *[e.g., dataset size]* |
-| **Performance** | *[e.g., best model's metric]* |
-| **Security** | *[e.g., N/A, or relevant note]* |
-| **Impact** | *[e.g., what the optimization improved]* |
-| **Repository** | [View on GitHub](https://github.com/YOUR_GITHUB_USERNAME/automl-cashflow-optimization) |
+**Advanced Excel · Business Analysis · Customer Analytics**
 
-</details>
+A business analytics case study built around **51,000+ transactions**, focusing on sales performance, customer behavior and decision-oriented analysis.
 
-> *Repo links above are guessed slugs — swap in your actual repository URLs. Tables are intentionally left for you to fill in with real numbers; a made-up metric is worse than no metric.*
+**Project highlights:**
+
+* Analyzed **51,000+ transactions**
+* Performed **Business Analysis**
+* Applied **Customer Segmentation**
+* Conducted **RFM Analysis**
+* Performed sales and customer-level analysis
+* Used **Linear Regression** for forecasting
+* Built the project using advanced Excel analytical techniques
+
+**Tech:** `Advanced Excel` `Business Analysis` `RFM Analysis` `Customer Segmentation` `Linear Regression` `Data Visualization`
+
+<p>
+  <a href="https://github.com/ReposofPriyanka/retail-superstore-sales-analytics-case-study">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💼 Experience
 
-**Machine Learning Engineering Intern** · FlyRank AI
-*[Month Year] – Present*
+### Machine Learning Engineering Intern · FlyRank AI
 
-*[1–2 line description of what the team/role focuses on]*
+**July 2026 – Present**
 
-- *[A concrete thing you built or contributed to]*
-- *[A tool/technique you used and why]*
-- *[An outcome — only include a number if it's a real one]*
+Working across practical machine learning and AI workflows involving:
 
-`Python` `SQL` *[add more tags as accurate]*
+* Python-based development and analysis
+* Machine learning workflows
+* Prompt engineering
+* API-based workflows
+* Notebook-based experimentation
+* Hugging Face
+* Data warehouse workflows
+* Data analysis and model-oriented problem solving
+
+`Python` `Machine Learning` `APIs` `Prompt Engineering` `Hugging Face` `Data Analysis`
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Job Simulations
 
-<div align="center">
+### Job Simulations
 
-| Recognition | Details |
-|---|---|
-| Job Simulations | JPMorgan Chase & Co. · TCS · Deloitte · Tata |
-| *[Add more]* | *[e.g., hackathon placements, publications, awards]* |
+Completed virtual job simulations / professional experience programs involving:
 
-</div>
+* **Tata**
+* **Deloitte**
+* **JPMorgan**
+* **Lloyds Banking Group**
+
+> More achievements and certifications will be added as they are completed.
 
 ---
 
 ## 📜 Certifications
 
-*Keep only the providers you actually hold a certification from — delete the rest.*
+### Coming Soon
 
+This section will be updated with verified certifications and professional credentials.
+
+<!--
+Add certifications here using this format:
+
+- **Certification Name** — Issuing Organization
+- **Certification Name** — Issuing Organization
+- **Certification Name** — Issuing Organization
+-->
 
 ---
 
 ## 💻 Coding Profiles
 
-You already practice on **HackerRank**, SQLZoo, DataLemur, and StrataScratch — the badges below cover the platforms with public stat-card generators, so swap in your real handles:
+<div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/YOUR_HANDLE)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_HANDLE)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HANDLE)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_HANDLE)
+<a href="https://leetcode.com/u/xrcq6LXDye/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/goswamipriyanka3">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -190,22 +244,13 @@ You already practice on **HackerRank**, SQLZoo, DataLemur, and StrataScratch —
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8E2DE2&text_color=FFFFFF" />
-<img height="165" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ReposofPriyanka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8E2DE2&text_color=FFFFFF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
+<img height="170" src="https://streak-stats.demolab.com/?user=ReposofPriyanka&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=A78BFA" />
 
-</div>
+<br>
 
-> If a card above shows a rate-limit message instead of your stats, that's the shared public instance being busy — it's a known, documented limitation of the free service and usually clears on refresh. For a permanently reliable version, see [self-hosting / GitHub Actions setup](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-recommended).
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=7&margin-w=8)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReposofPriyanka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
 
 </div>
 
@@ -215,25 +260,9 @@ You already practice on **HackerRank**, SQLZoo, DataLemur, and StrataScratch —
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8E2DE2&point=FFFFFF&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReposofPriyanka&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> **One-time setup required:** create a repo named exactly `YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME`, then add a GitHub Actions workflow using [`Platane/snk@v3`](https://github.com/Platane/snk) with write permissions to generate this SVG onto an `output` branch. Steps are in the snk repo's README.
 
 ---
 
@@ -242,33 +271,59 @@ You already practice on **HackerRank**, SQLZoo, DataLemur, and StrataScratch —
 ```yaml
 current_focus:
   learning:
-    - "Advanced SQL & analytics (window functions, PostgreSQL)"
-  building:
-    - "Personal brand: portfolio site, weekly devlog, YouTube"
-    - "Insurance Claims Analytics · Global Superstore Forecast · AutoML Cash Flow Optimization"
-  exploring:
-    - "AutoML workflows"
-  open_to:
-    - "Data Analytics"
-    - "Data Science"
+    - "Advanced SQL"
     - "Machine Learning"
-    - "AI internships / roles"
+    - "AI & LLM workflows"
+
+  building:
+    - "Data Analytics projects"
+    - "Machine Learning projects"
+    - "Power BI dashboards"
+    - "Business-focused case studies"
+
+  working_with:
+    - "Python"
+    - "SQL"
+    - "Power BI"
+    - "Excel"
+    - "Machine Learning"
+    - "APIs"
+    - "Hugging Face"
+
+  open_to:
+    - "Data Analytics Internships"
+    - "Data Science Internships"
+    - "Machine Learning Internships"
+    - "AI/ML Opportunities"
 ```
 
 ---
 
-## 📬 Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A00E0?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-
----
+## 📬 Let's Connect
 
 <div align="center">
 
-*"Data tells the story. Code makes it real."*
+<a href="https://www.linkedin.com/in/priyankagoswami-kolkata/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:goswamipriyanka645@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ReposofPriyanka">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### *The most powerful thing you can do with data is make someone’s next decision easier.*
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
 
