@@ -9,7 +9,7 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/Data%20Science-3rd%20Year-8E2DE2?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍-Add_your_city-4A00E0?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍Kolkata-4A00E0?style=flat-square&labelColor=1a1a2e)
 
 <br/>
 
