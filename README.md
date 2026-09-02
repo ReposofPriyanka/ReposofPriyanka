@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,35:C026D3,70:6D28D9,100:3B82F6&height=240&section=header&text=Hi,%20I'm%20Priyanka&fontSize=42&fontColor=FFFFFF&fontAlignY=34&animation=twinkling&desc=Data%20Science%20Student%20%7C%20ML%20Engineering%20Intern&descAlignY=53&descSize=19" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=EC4899,8E2DE2,3B82F6&center=true&vCenter=true&width=650&lines=Data+Science+Student;ML+Engineering+Intern+%40+FlyRank+AI;Turning+Data+Into+Decisions;Building+in+Public" alt="Typing SVG" /> </a> <br/>
 
 # Hi, I'm Priyanka 👋
 
