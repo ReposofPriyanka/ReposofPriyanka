@@ -39,46 +39,33 @@ My goal is to build practical systems where data doesn't just describe what happ
 ## 🛠️ Technical Skills
 
 ### Programming & Query Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
-
 ### Data Science & Analytics
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white)
-
 ### Business Intelligence
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-5C2D91?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=flat-square)
-
 ### Databases
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square\&logo=duckdb\&logoColor=black)
-
 ### Machine Learning
-
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8E2DE2?style=flat-square)
 ![Regression](https://img.shields.io/badge/Regression-6A5ACD?style=flat-square)
 ![Classification](https://img.shields.io/badge/Classification-7B68EE?style=flat-square)
 ![Clustering](https://img.shields.io/badge/Clustering-9370DB?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B00?style=flat-square)
 ![AutoML](https://img.shields.io/badge/AutoML-4A00E0?style=flat-square)
-
 ### AI & LLM
-
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-A78BFA?style=flat-square)
-
 ### Development & Deployment
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
@@ -88,19 +75,18 @@ My goal is to build practical systems where data doesn't just describe what happ
 
 ## 🧠 Technical Expertise & Proficiency
 
-| Domain                        | Proficiency      | Skills                                                          |  
-| ----------------------------  | ---------------- | -----------------------------------------------------------     |
-| 📊 **Data Analytics**        | 🟣🟣🟣🟣⚪ Strong | Python, SQL, Pandas, NumPy, Excel, Data Analysis             |
+| Domain                       | Proficiency      | Skills                                                          |  
+| ---------------------------- | ---------------- | -----------------------------------------------------------     |
+| 📊 **Data Analytics**        | 🟣🟣🟣🟣🟣 Very Strong | Python, SQL, Pandas, NumPy, Excel, Data Analysis        |
+| 📊 **Data Visualization**    | 🟣🟣🟣🟣🟣 Very Strong| Matplotlib, Seaborn, Power BI                            |
 | 📈 **Business Intelligence** | 🟣🟣🟣🟣⚪ Strong | Power BI, DAX, Power Query, Dashboarding, KPI Analysis       |
 | 🗄️ **SQL & Databases**       | 🟣🟣🟣🟣⚪ Strong | SQL, MySQL, DuckDB, Data Warehousing                         |
+| 🤖 **Machine Learning**      | 🟣🟣🟣🟣⚪ Strong | Regression, Classification, Clustering, XGBoost              |
 | 📐 **Statistics & Analysis** | 🟣🟣🟣⚪⚪ Applied | Regression, Statistical Analysis, Exploratory Data Analysis |
-| 🤖 **Machine Learning**      | 🟣🟣🟣⚪⚪ Applied | Regression, Classification, Clustering, XGBoost             |
-| 🧠 **AI & LLM Workflows**    | 🟣🟣🟣⚪⚪ Applied | Prompt Engineering, Hugging Face, AI Workflows              |
-| ⚙️ **AutoML**                | 🟣🟣🟣⚪⚪ Applied | Automated Model Selection, Model Experimentation            |
-| 🔌 **APIs & Data Workflows** | 🟣🟣🟣⚪⚪ Applied | APIs, Notebooks, Data Pipelines, Data Warehouse Workflows   |
-| 💻 **Software Development**  | 🟣🟣🟣⚪⚪ Applied | Git, GitHub, Java, C/C++, JavaScript                        |
+| 🔌 **APIs & Data Workflows** | 🟣🟣🟣⚪⚪ Applied | APIs, Notebooks, Data Pipelines, Data Warehouse Workflows   |                   
 | 🌐 **Web & App Development** | 🟣🟣🟣⚪⚪ Applied | Next.js, React, Streamlit, Vercel                           |
-| 📊 **Data Visualization**    | 🟣🟣🟣⚪⚪ Applied | Matplotlib, Seaborn, Power BI                               |
+| 🧠 **AI & LLM Workflows**    | 🟣🟣⚪⚪⚪ Growing | Prompt Engineering, Hugging Face, AI Workflows              |
+| ⚙️ **AutoML**                | 🟣🟣⚪⚪⚪ Growing | Automated Model Selection, Model Experimentation            |
 
 </table>
 
@@ -186,36 +172,9 @@ Working across practical machine learning and AI workflows involving:
 
 ---
 
-## 🏆 Achievements & Job Simulations
-
-### Job Simulations
-
-Completed virtual job simulations / professional experience programs involving:
-
-* **Tata**
-* **Deloitte**
-* **JPMorgan**
-* **Lloyds Banking Group**
-
-> More achievements and certifications will be added as they are completed.
-
----
-
 ## 📜 Certifications
 
-### Coming Soon
 
-This section will be updated with verified certifications and professional credentials.
-
-<!--
-Add certifications here using this format:
-
-- **Certification Name** — Issuing Organization
-- **Certification Name** — Issuing Organization
-- **Certification Name** — Issuing Organization
--->
-
----
 
 ## 💻 Coding Profiles
 
@@ -314,10 +273,10 @@ current_focus:
 
 <div align="center">
 
-### *The most powerful thing you can do with data is make someone’s next decision easier.*
+### **
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&text=The+most+powerful+thing+you+can+do+with+data+is+make+ someone’s+next+decision+easier.section=footer" width="100%"/>
 
 </div>
