@@ -113,17 +113,23 @@ My goal is to build practical systems where data doesn't just describe what happ
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🧠 Technical Expertise & Proficiency
 
-| Area                             | Skills                                          |
-| -------------------------------- | ----------------------------------------------- |
-| **Data Analytics**               | Python, SQL, Pandas, NumPy, Excel               |
-| **Business Intelligence**        | Power BI, DAX, Power Query                      |
-| **Machine Learning**             | Regression, Classification, Clustering, XGBoost |
-| **AutoML**                       | Automated model selection & experimentation     |
-| **AI**                           | Prompt Engineering, Hugging Face workflows      |
-| **Data Engineering Foundations** | SQL, MySQL, DuckDB, Data Warehouse workflows    |
-| **Development**                  | Git, GitHub, APIs, Streamlit, Next.js, React    |
+| Domain                        | Proficiency      | Skills                                                          |  
+| ----------------------------  | ---------------- | -----------------------------------------------------------     |
+| 📊 **Data Analytics**        | 🟣🟣🟣🟣⚪ Strong | Python, SQL, Pandas, NumPy, Excel, Data Analysis             |
+| 📈 **Business Intelligence** | 🟣🟣🟣🟣⚪ Strong | Power BI, DAX, Power Query, Dashboarding, KPI Analysis       |
+| 🗄️ **SQL & Databases**       | 🟣🟣🟣🟣⚪ Strong | SQL, MySQL, DuckDB, Data Warehousing                         |
+| 📐 **Statistics & Analysis** | 🟣🟣🟣⚪⚪ Applied | Regression, Statistical Analysis, Exploratory Data Analysis |
+| 🤖 **Machine Learning**      | 🟣🟣🟣⚪⚪ Applied | Regression, Classification, Clustering, XGBoost             |
+| 🧠 **AI & LLM Workflows**    | 🟣🟣🟣⚪⚪ Applied | Prompt Engineering, Hugging Face, AI Workflows              |
+| ⚙️ **AutoML**                | 🟣🟣🟣⚪⚪ Applied | Automated Model Selection, Model Experimentation            |
+| 🔌 **APIs & Data Workflows** | 🟣🟣🟣⚪⚪ Applied | APIs, Notebooks, Data Pipelines, Data Warehouse Workflows   |
+| 💻 **Software Development**  | 🟣🟣🟣⚪⚪ Applied | Git, GitHub, Java, C/C++, JavaScript                        |
+| 🌐 **Web & App Development** | 🟣🟣🟣⚪⚪ Applied | Next.js, React, Streamlit, Vercel                           |
+| 📊 **Data Visualization**    | 🟣🟣🟣⚪⚪ Applied | Matplotlib, Seaborn, Power BI                               |
+
+</table>
 
 ---
 
