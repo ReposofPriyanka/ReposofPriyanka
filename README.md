@@ -5,15 +5,7 @@
   src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=Hi,%20I'm%20Priyanka&fontSize=44&fontColor=FFFFFF&fontAlignY=42&stroke=8E2DE2&strokeWidth=1&color=0:050505,25:0B0015,50:18002B,75:08001A,100:020617&animation=twinkling&desc=Data%20Science%20Student%20%7C%20ML%20Engineering%20Intern&descAlignY=62&descSize=18&descColor=CBD5E1"
   width="100%"
 />
-
-<!-- NEON GLOW / PARTICLE BAR -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=%20&fontSize=1&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling"
-  width="100%"
-/>
-
 <br>
-
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
   <img
@@ -21,23 +13,16 @@
     alt="Typing SVG"
   />
 </a>
-
-<br><br>
-
 <!-- PREMIUM TAGLINE -->
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Exploring+Data+%E2%80%A2+Machine+Learning+%E2%80%A2+AI;Making+data+useful%2C+beautiful%2C+and+actionable"
   alt="Tagline"
  />
-
-<br>
-
 <!-- GLOWING DIVIDER -->
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=3&width=700&color=0:EC4899,30:A855F7,60:6366F1,100:22D3EE&section=header"
   width="70%"
 />
-
 </div>
 
 ## 🧠 About Me
