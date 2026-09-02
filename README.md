@@ -5,11 +5,7 @@
     alt="Typing SVG"
   />
 </a>
-<!-- PREMIUM TAGLINE -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Exploring+Data+%E2%80%A2+Machine+Learning+%E2%80%A2+AI;Making+data+useful%2C+beautiful%2C+and+actionable"
-  alt="Tagline"
- />
+
 <!-- GLOWING DIVIDER -->
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=3&width=700&color=0:EC4899,30:A855F7,60:6366F1,100:22D3EE&section=header"
