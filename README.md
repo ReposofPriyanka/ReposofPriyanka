@@ -7,7 +7,7 @@
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=Data+Science+Student+40%+Techno+India+University;ML+Engineering+Intern+%40+FlyRank+AI;Building+%7C+Learning+%7C+Shipping"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=Data+Science+Student+%40+Techno+India+University;ML+Engineering+Intern+%40+FlyRank+AI;Building+%7C+Learning+%7C+Shipping"
     alt="Typing SVG"
   />
 </a>
