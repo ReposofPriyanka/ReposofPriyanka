@@ -20,7 +20,6 @@
 </div>
 
 ## 🧠 About Me
-
 I'm **Priyanka**, a third-year **B.Sc. Data Science (H)** student at **Techno India University, West Bengal**, currently working as a **Machine Learning Engineering Intern at FlyRank AI**.
 
 I enjoy working across the data and machine learning pipeline — from **SQL and exploratory analysis** to **machine learning, APIs, notebooks, data warehouses, and AI workflows**.
@@ -33,11 +32,9 @@ My goal is to build practical systems where data doesn't just describe what happ
 * 🔬 Working with **Python, ML, APIs, notebooks, Hugging Face & data warehouse workflows**
 * 📈 Interested in **Data Analytics, Data Science, Machine Learning & AI**
 * 🚀 Building projects that combine **analytics + business understanding + machine learning**
-
 ---
 
 ## 🛠️ Technical Skills
-
 ### Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
@@ -74,7 +71,6 @@ My goal is to build practical systems where data doesn't just describe what happ
 ---
 
 ## 🧠 Technical Expertise & Proficiency
-
 | Domain                       | Proficiency      | Skills                                                          |  
 | ---------------------------- | ---------------- | -----------------------------------------------------------     |
 | 📊 **Data Analytics**        | 🟣🟣🟣🟣🟣 Very Strong | Python, SQL, Pandas, NumPy, Excel, Data Analysis        |
@@ -89,19 +85,15 @@ My goal is to build practical systems where data doesn't just describe what happ
 | ⚙️ **AutoML**                | 🟣🟣⚪⚪⚪ Growing | Automated Model Selection, Model Experimentation            |
 
 </table>
-
 ---
 
 ## 🚀 Featured Projects
 
 ### 📊 Insurance Claims Analytics
-
 **MySQL + Power BI**
-
 An end-to-end insurance analytics case study combining SQL analysis, data modeling, DAX measures and interactive Power BI dashboards.
 
 **Project highlights:**
-
 * Analyzed **1,000 insurance policies and 1,000 claims**
 * Examined approximately **$52.76M in exposure**
 * Identified **247 fraud cases**
@@ -116,7 +108,6 @@ An end-to-end insurance analytics case study combining SQL analysis, data modeli
 * Used **MySQL** for SQL-based analysis and **Power BI/DAX** for reporting and business intelligence
 
 **Tech:** `MySQL` `SQL` `Power BI` `DAX` `Data Modeling`
-
 <p>
   <a href="https://github.com/ReposofPriyanka/insurance_claim_analytics">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -126,13 +117,10 @@ An end-to-end insurance analytics case study combining SQL analysis, data modeli
 ---
 
 ### 🛒 Global Superstore Sales Analytics
-
 **Advanced Excel · Business Analysis · Customer Analytics**
-
 A business analytics case study built around **51,000+ transactions**, focusing on sales performance, customer behavior and decision-oriented analysis.
 
 **Project highlights:**
-
 * Analyzed **51,000+ transactions**
 * Performed **Business Analysis**
 * Applied **Customer Segmentation**
@@ -142,19 +130,16 @@ A business analytics case study built around **51,000+ transactions**, focusing 
 * Built the project using advanced Excel analytical techniques
 
 **Tech:** `Advanced Excel` `Business Analysis` `RFM Analysis` `Customer Segmentation` `Linear Regression` `Data Visualization`
-
 <p>
   <a href="https://github.com/ReposofPriyanka/retail-superstore-sales-analytics-case-study">
     <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ## 💼 Experience
 
 ### Machine Learning Engineering Intern · FlyRank AI
-
 **July 2026 – Present**
 
 Working across practical machine learning and AI workflows involving:
@@ -162,32 +147,25 @@ Working across practical machine learning and AI workflows involving:
 * Python-based development and analysis
 * Machine learning workflows
 * Prompt engineering
+* Prompt evaluation
 * API-based workflows
 * Notebook-based experimentation
 * Hugging Face
 * Data warehouse workflows
-* Data analysis and model-oriented problem solving
 
-`Python` `Machine Learning` `APIs` `Prompt Engineering` `Hugging Face` `Data Analysis`
+`Python` `Machine Learning` `APIs` `Prompt Engineering` `Prompt Evaluation` `Hugging Face` `Data Analysis`
 
 ---
-
-## 📜 Certifications
-
-
 
 ## 💻 Coding Profiles
 
 <div align="center">
-
 <a href="https://leetcode.com/u/xrcq6LXDye/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
 </a>
-
 <a href="https://www.hackerrank.com/profile/goswamipriyanka3">
 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
 </div>
 
 ---
@@ -218,65 +196,27 @@ Working across practical machine learning and AI workflows involving:
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "Advanced SQL"
-    - "Machine Learning"
-    - "AI & LLM workflows"
-
-  building:
-    - "Data Analytics projects"
-    - "Machine Learning projects"
-    - "Power BI dashboards"
-    - "Business-focused case studies"
-
-  working_with:
-    - "Python"
-    - "SQL"
-    - "Power BI"
-    - "Excel"
-    - "Machine Learning"
-    - "APIs"
-    - "Hugging Face"
-
-  open_to:
+## Open to:
     - "Data Analytics Internships"
     - "Data Science Internships"
     - "Machine Learning Internships"
     - "AI/ML Opportunities"
-```
-
----
 
 ## 📬 Let's Connect
-
 <div align="center">
-
 <a href="https://www.linkedin.com/in/priyankagoswami-kolkata/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:goswamipriyanka645@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/ReposofPriyanka">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
-
 <br>
-
 <div align="center">
-
-### **
-
+### *The most powerful thing you can do with data is make someone’s next decision easier.*
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&text=The+most+powerful+thing+you+can+do+with+data+is+make+ someone’s+next+decision+easier.section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120.section=footer" width="100%"/>
 </div>
