@@ -1,11 +1,4 @@
 <div align="center">
-
-<!-- PREMIUM DARK NEON HEADER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=Hi,%20I'm%20Priyanka&fontSize=44&fontColor=FFFFFF&fontAlignY=42&stroke=8E2DE2&strokeWidth=1&color=0:050505,25:0B0015,50:18002B,75:08001A,100:020617&animation=twinkling&desc=Data%20Science%20Student%20%7C%20ML%20Engineering%20Intern&descAlignY=62&descSize=18&descColor=CBD5E1"
-  width="100%"
-/>
-
 <!-- NEON GLOW / PARTICLE BAR -->
 <img
   src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&text=%20&fontSize=1&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling"
