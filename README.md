@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=PRIYANKA%20GOSWAMI&fontSize=44&fontColor=FFFFFF&fontAlignY=42&stroke=8E2DE2&strokeWidth=1&&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%AI%20%7C%ML%20&descAlignY=62&descSize=18&descColor=CBD5E1"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=PRIYANKA%20GOSWAMI&fontSize=44&fontColor=FFFFFF&fontAlignY=42&stroke=8E2DE2&strokeWidth=1&&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20%AI%20%7C%20%ML%20&descAlignY=62&descSize=18&descColor=CBD5E1"
   width="100%"
 />
 
