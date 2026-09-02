@@ -1,7 +1,7 @@
 <div align="center">
 <!-- NEON GLOW / PARTICLE BAR -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=500&section=header&text=%20&fontSize=1&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=%20&fontSize=1&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling"
   width="100%"
 />
 
