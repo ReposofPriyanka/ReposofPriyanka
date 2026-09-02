@@ -1,50 +1,21 @@
 <div align="center">
-  <!-- Premium Dark Header with Neon Glow & Twinkling Particles -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0E15,40:1B162E,100:2A183D&stroke=FF6EC7&strokeWidth=2&height=250&section=header&text=Hi,%20I'm%20Priyanka&fontSize=42&fontColor=FFFFFF&fontAlignY=34&animation=twinkling&desc=Data%20Science%20Student%20%7C%20ML%20Engineering%20Intern&descAlignY=53&descSize=19&descColor=E9D5FF" width="100%"/>
-  
-  <!-- Typing SVG aligned with the Neon/Dark Theme -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=C026D3,8E2DE2,3B82F6&center=true&vCenter=true&width=650&lines=Data+Science+Student;ML+Engineering+Intern+%40+FlyRank+AI;Turning+Data+Into+Decisions;Building+in+Public" alt="Typing SVG" />
-  </a>
-  <br/>
-</div>
 
-Show Image
+Hi, I'm Priyanka 👋
+Data Science Student · Machine Learning Engineering Intern · Data & AI Enthusiast
 
-<br/>
+<p> <a href="https://github.com/ReposofPriyanka"> <img src="https://img.shields.io/badge/GitHub-ReposofPriyanka-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/priyankagoswami-kolkata/"> <img src="https://img.shields.io/badge/LinkedIn-Priyanka%20Goswami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:goswamipriyanka645@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
-Show Image Show Image
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+Engineering+Intern;Turning+Data+Into+Decisions;Building+with+Python%2C+SQL+%26+Power+BI;Exploring+ML+%26+AI" alt="Typing SVG" />
 
-<br/>
+<br>
 
-Portfolio LinkedIn Email GitHub
 
-<br/>
 
-Show Image Show Image Show Image
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:8E2DE2,100:3B82F6&height=4&width=800" /> </div>
-🧠 About Me
 
-I'm Priyanka — a third-year Data Science student and Machine Learning Engineering Intern at FlyRank AI. I like working close to the whole pipeline: pulling a clear story out of messy data, building models that hold up outside a notebook, and shipping the product around them so someone can actually use the result.
 
-Outside of coursework and my internship, I build and document publicly — a portfolio site, a weekly devlog, and a YouTube channel — because I think showing the process is as valuable as the finished project.
-
-🔭 Currently: ML Engineering Intern @ FlyRank AI
-🎓 3rd-year Data Science student
-🌱 Currently deepening: advanced SQL & analytics (window functions, PostgreSQL)
-📝 I write about what I'm building on my devlog and LinkedIn
-💬 Open to: Data Analytics · Data Science · Machine Learning · AI internships & roles
-⚡ [Add a personal line — a hobby, a habit, anything that makes this sound like you]
-
-![Data Science](https://img.shields.io/badge/B.Sc.%20Data%20Science%20\(H\)-3rd%20Year-8E2DE2?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-8.5-4A00E0?style=flat-square)
-![Graduation](https://img.shields.io/badge/Expected%20Graduation-2028-A78BFA?style=flat-square)
-![Internship](https://img.shields.io/badge/ML%20Engineering%20Intern-FlyRank%20AI-8E2DE2?style=flat-square)
 
 </div>
-
----
 
 ## 🧠 About Me
 
