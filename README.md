@@ -1,13 +1,13 @@
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=PRIYANKA%20GOSWAMI&fontSize=44&fontColor=FFFFFF&fontAlignY=42&stroke=8E2DE2&strokeWidth=1&&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling&desc=Data%20Science%20Student%20%7C%20ML%20Engineering%20Intern&descAlignY=62&descSize=18&descColor=CBD5E1"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=PRIYANKA%20GOSWAMI&fontSize=44&fontColor=FFFFFF&fontAlignY=42&stroke=8E2DE2&strokeWidth=1&&color=0:EC4899,20:A855F7,45:7C3AED,70:2563EB,100:020617&animation=twinkling&desc=Data%20Analytics%20%7C%20Data%20Science%20AI%20ML%20&descAlignY=62&descSize=18&descColor=CBD5E1"
   width="100%"
 />
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=Data+Science+Student+%40+Techno+India+University;ML+Engineering+Intern+%40+FlyRank+AI;Building+%7C+Learning+%7C+Shipping"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=720&lines=Data+Science+Undergraduate%40+Techno+India+University;Machine+Learning+Engineering+Intern+%40+FlyRank+AI;Building+%7C+Learning+%7C+Shipping"
     alt="Typing SVG"
   />
 </a>
